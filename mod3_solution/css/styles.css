@@ -1,0 +1,26 @@
+body {
+  padding-bottom: 30px;
+}
+
+#navigation.navbar {
+  border-radius: 0;
+  background-color: #666666;
+}
+#navigation a.navbar-brand {
+  color: #fff;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+#navbar a:hover,
+#navbar a:active {
+  background-color: #3b3b3b;
+}
+#navbar a {
+  color: #fff;
+}
+
+#content section {
+  background-color: #f5f5f5;
+  margin-bottom: 20px;
+}
